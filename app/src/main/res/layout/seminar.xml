@@ -18,7 +18,7 @@
             android:id="@+id/dosen"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama Dosenku"
+            android:text="Nama Dosen"
             android:textColor="@color/cardview_dark_background"
             android:textStyle="bold"
             android:textSize="14sp"
@@ -59,7 +59,7 @@
             android:id="@+id/lokasi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lab WINKOM"
+            android:text="Lab KOMPUTER"
             android:textStyle="bold" />
     </LinearLayout>
     </RelativeLayout>
