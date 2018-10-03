@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Share-IE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pencarian">Cari...</string>
+    <array name="user_foto">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+    <string-array name="user_nama">
+        <item>Khidir</item>
+        <item>Wira</item>
+        <item>Putra</item>
+        <item>Brian</item>
+        <item>Rian</item>
+        <item>Yana</item>
+        <item>Vio</item>
+    </string-array>
 </resources>
