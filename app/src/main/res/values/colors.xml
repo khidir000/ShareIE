@@ -4,5 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#A5B0B7</color>
     <color name="background">#00BFFF</color>
+    <color name="hitam">#000</color>
     <color name="garis">#FFFFFF</color>
 </resources>
